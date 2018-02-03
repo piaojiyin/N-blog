@@ -1,7 +1,7 @@
 {
   "name": "myblog",
   "version": "1.0.0",
-  "description": "干你嘴",
+  "description": "哈士奇爱你哦，金宝宝",
   "main": "index.js",
   "scripts": {
     "test": "istanbul cover _mocha",
